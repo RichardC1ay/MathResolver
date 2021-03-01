@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathResolver", "MathResolver.csproj", "{D8DBDE34-B500-4C9B-8CD8-7E91C66C348E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8DBDE34-B500-4C9B-8CD8-7E91C66C348E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DBDE34-B500-4C9B-8CD8-7E91C66C348E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DBDE34-B500-4C9B-8CD8-7E91C66C348E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DBDE34-B500-4C9B-8CD8-7E91C66C348E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F16AC7-909C-4524-8B29-89F09968D493}
+	EndGlobalSection
+EndGlobal
